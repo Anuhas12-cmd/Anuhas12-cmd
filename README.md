@@ -12,7 +12,7 @@
 
 ## About
 
-> Hi, I’m Anuhas, a computing graduate and web and mobile application developer. I enjoy building practical software and learning new technologies. I work with P
+> Hi, I’m Anuhas, a computing graduate and web and mobile application developer. I enjoy building practical software and learning new technologies.
 
 - 📍 Based in **Kandy**
 - 👥 **3** followers · **2** following
