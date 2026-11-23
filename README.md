@@ -31,7 +31,7 @@ const anuhas12_cmd: Developer = {
 };
 ```
 
-> Full - Stack Developer
+> Hi, I’m Anuhas, a computing graduate and web and mobile application developer. I enjoy building practical software and learning new technologies.
 > 
 > **Collaborations welcome when they are meaningful 🤝**
 
