@@ -1,48 +1,152 @@
-## Profile snapshot
-
 <div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=anuhas12-cmd&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182758233%3Fu%3Daa037514360dc0e9ab34a3f5200754ea1a305ca9%26v%3D4" alt="anuhas12-cmd hero visual" />
-</p>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=anuhas12-cmd&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Kandy&v=readme-reference-2" width="100%" alt="Anuhas Shanuka profile banner" />
 
-<p><b>Frontend or full-stack engineer</b></p>
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Full%20-%20Stack%20Developer;Building%20with%20TypeScript%20%C2%B7%20JavaScript%20%C2%B7%20PLpgSQL;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://github.com/anuhas12-cmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
 
 </div>
 
-## About
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-> Hi, I’m Anuhas, a computing graduate and web and mobile application developer. I enjoy building practical software and learning new technologies.
+## ⚡ whoami
 
-- 📍 Based in **Kandy**
-- 👥 **3** followers · **2** following
+```typescript
+const anuhas12_cmd: Developer = {
+  name:      "Anuhas Shanuka",
+  role:      "Frontend or full-stack engineer",
+  location:  "Kandy",
+  currently: "building in public",
+  stack:     ["TypeScript", "JavaScript", "PLpgSQL", "HTML", "CSS", "Batchfile"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
 
-*Small, useful work over vague claims.*
+> Full - Stack Developer
+> 
+> **Collaborations welcome when they are meaningful 🤝**
 
-## Core toolkit
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript%2Cjavascript%2Chtml%2Ccss%2Ckotlin&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/PLpgSQL-336790?style=for-the-badge&amp;labelColor=0d1117" alt="PLpgSQL" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/Batchfile-C1F12E?style=for-the-badge&amp;labelColor=0d1117" alt="Batchfile" /> <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&amp;labelColor=0d1117" alt="Kotlin" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Suva-Voice**
+
+A featured build from this profile.
+
+`JavaScript` · `1 stars`
+
+<a href="https://github.com/Anuhas12-cmd/Suva-Voice"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**3cs-redesign**
+
+Independent 3CS website redesign
+
+`TypeScript` · `0 stars`
+
+<a href="https://github.com/Anuhas12-cmd/3cs-redesign"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Anuhas12-cmd**
+
+My GitHub profile
+
+`Open source` · `0 stars`
+
+<a href="https://github.com/Anuhas12-cmd/Anuhas12-cmd"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Nexo-Digital-Collective**
+
+A featured build from this profile.
+
+`TypeScript` · `0 stars`
+
+<a href="https://github.com/Anuhas12-cmd/Nexo-Digital-Collective"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=anuhas12-cmd&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=anuhas12-cmd&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=anuhas12-cmd&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182758233%3Fu%3Daa037514360dc0e9ab34a3f5200754ea1a305ca9%26v%3D4" alt="anuhas12-cmd stack visual" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=anuhas12-cmd&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182758233%3Fu%3Daa037514360dc0e9ab34a3f5200754ea1a305ca9%26v%3D4" alt="anuhas12-cmd heatmap visual" />
 </p>
 
-## Selected work
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=anuhas12-cmd&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182758233%3Fu%3Daa037514360dc0e9ab34a3f5200754ea1a305ca9%26v%3D4" alt="anuhas12-cmd projects visual" />
-</p>
+## 🏆 Beyond the Code
 
-## Let’s connect
+* 🧠 **Profile signal:** 19 contributions in the last year
+* 🚀 **Builder energy:** 4 public repositories
+* ⭐ **Community signal:** 1 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=anuhas12-cmd&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182758233%3Fu%3Daa037514360dc0e9ab34a3f5200754ea1a305ca9%26v%3D4" alt="anuhas12-cmd social visual" />
-</p>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=anuhas12-cmd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<a href="https://github.com/anuhas12-cmd">GitHub</a>
+<div align="center">
 
-## Activity
+## 🤝 Let's Build Something Meaningful
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=anuhas12-cmd&theme=satan" alt="anuhas12-cmd contribution activity" />
-</p>
+I build useful software and enjoy turning ambitious ideas into working products.
 
-<p align="center"><sub>Anuhas Shanuka · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<a href="https://github.com/anuhas12-cmd"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ From [Anuhas Shanuka](https://github.com/anuhas12-cmd) · built with code, AI & a little chaos 😈***
+
+</div>
