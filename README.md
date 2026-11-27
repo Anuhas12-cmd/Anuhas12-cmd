@@ -55,6 +55,12 @@ const anuhas12_cmd: Developer = {
 
 ## 🌌 Featured Projects
 
+| Project | What I built |
+| --- | --- |
+| [SOC](https://github.com/Anuhas12-cmd/SOC) | A C# water-billing system connecting customer records, usage, bills and payments with a web interface and retail POS. |
+| [GlobeTrek](https://github.com/Anuhas12-cmd/GlobeTrek) | A multi-page Sri Lankan travel website with registration, booking requests, contact forms and role-based dashboards, built with PHP and MySQL. |
+| [PrintXpress](https://github.com/Anuhas12-cmd/PrintXpress) | A Kotlin Android app for customizing print products, placing orders and tracking print jobs. |
+
 <table>
 <tr>
 <td width="50%" valign="top">
